@@ -1,0 +1,8 @@
+C:\Users\Bhavuk\Desktop\RestTest>php artisan passport:install
+Encryption keys already exist. Use the --force option to overwrite them.
+Personal access client created successfully.
+Client ID: 1
+Client Secret: z82An3I9Ayh6DXwU7v3ePIixdDkYBDjCS7twvx05
+Password grant client created successfully.
+Client ID: 2
+Client Secret: OoSBFetU0IOmGjcR8n6RwXMAR7VmZwI9PDULf11G
